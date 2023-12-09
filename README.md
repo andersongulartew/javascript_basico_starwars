@@ -1,1 +1,3 @@
-# javascript-basico-starwars
+### Curso de Javascript para QAs - Fernando Papito QAXperience
+[![https://github.com/andersongulartew/javascript-basico-starwars/blob/main/images/281196518-9581323a-8f69-45dc-b648-fb4d05c7111c.png?raw=true](https://github.com/andersongulartew/javascript-basico-starwars/blob/main/images/281196518-9581323a-8f69-45dc-b648-fb4d05c7111c.png?raw=true "https://github.com/andersongulartew/javascript-basico-starwars/blob/main/images/281196518-9581323a-8f69-45dc-b648-fb4d05c7111c.png?raw=true")](https://github.com/andersongulartew/javascript-basico-starwars/blob/main/images/281196518-9581323a-8f69-45dc-b648-fb4d05c7111c.png?raw=true "https://github.com/andersongulartew/javascript-basico-starwars/blob/main/images/281196518-9581323a-8f69-45dc-b648-fb4d05c7111c.png?raw=true")
+
